@@ -2,28 +2,28 @@
     "onedigit": [
         {
         "id": 0,
-        "question": "How many bananas?",
-        "answer": ""
+        "question": "How many holes are there in a bowling ball?",
+        "answer": 3
         },
         {
         "id": 1,
-        "question": "Is this working",
-        "answer": 789
+        "question": "How many hulls are there on a catamaran?",
+        "answer": 2
         },
         {
         "id": 2,
-        "question": "",
-        "answer": ""
+        "question": "How many states in the USA begin with the letter M?",
+        "answer": 8
         },
         {
         "id": 3,
-        "question": "",
-        "answer": ""
+        "question": "In tennis, how high is the net in feet?",
+        "answer": 3
         },
         {
         "id": 4,
-        "question": "",
-        "answer": ""
+        "question": "How many children did Queen Victoria have?",
+        "answer": 9
         },
         {
         "id": 5,
@@ -204,48 +204,48 @@
     "twodigit": [
         {
         "id": 0,
-        "question": "How many bananas?",
-        "answer": ""
+        "question": "How many legs are there on a shrimp?",
+        "answer": 10
         },
         {
         "id": 1,
-        "question": "",
-        "answer": ""
+        "question": "How many keys are on a piano?",
+        "answer": 88
         },
         {
         "id": 2,
-        "question": "",
-        "answer": ""
+        "question": "How many labours performed by Hercules?",
+        "answer": 12
         },
         {
         "id": 3,
-        "question": "",
-        "answer": ""
+        "question": "How many inches are there in a cubit?",
+        "answer": 18
         },
         {
         "id": 4,
-        "question": "",
-        "answer": ""
+        "question": "How many shillings in a Guinea?",
+        "answer": 21
         },
         {
         "id": 5,
-        "question": "",
-        "answer": ""
+        "question": "How many numbers are there on a bingo board?",
+        "answer": 90
         },
         {
         "id": 6,
-        "question": "",
-        "answer": ""
+        "question": "What do the Roman numeral L represent?",
+        "answer": 50
         },
         {
         "id": 7,
-        "question": "",
-        "answer": ""
+        "question": "How many squares on a checkers board?",
+        "answer": 64
         },
         {
         "id": 8,
-        "question": "",
-        "answer": ""
+        "question": "How many black squares on a chess-board?",
+        "answer": 32
         },
         {
         "id": 9,
@@ -406,23 +406,23 @@
     "threedigit": [
         {
         "id": 0,
-        "question": "How many bananas?",
-        "answer": ""
+        "question": "How many pennies in a pre-decimal pound?",
+        "answer": 240
         },
         {
         "id": 1,
-        "question": "",
-        "answer": ""
+        "question": "How many acres to the square mile?",
+        "answer": 640
         },
         {
         "id": 2,
-        "question": "",
-        "answer": ""
+        "question": "At what number did Sherlock Holmes live?",
+        "answer": 221
         },
         {
         "id": 3,
-        "question": "",
-        "answer": ""
+        "question": "How many dots are there on a standard set of dominoes?",
+        "answer": 168
         },
         {
         "id": 4,
@@ -608,18 +608,18 @@
     "fourdigit": [
         {
         "id": 0,
-        "question": "How many bananas?",
-        "answer": ""
+        "question": "When were the first Winter Olympics held?",
+        "answer": 1924
         },
         {
         "id": 1,
-        "question": "",
-        "answer": ""
+        "question": "When was the battle of Stamford Bridge fought?",
+        "answer": 1066
         },
         {
         "id": 2,
-        "question": "",
-        "answer": ""
+        "question": "In which year was the Great Fire of London?",
+        "answer": 1666
         },
         {
         "id": 3,
