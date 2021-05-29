@@ -27,13 +27,13 @@
         },
         {
         "id": 5,
-        "question": "",
-        "answer": ""
+        "question": "How many moons has Mars?",
+        "answer": 2
         },
         {
         "id": 6,
-        "question": "",
-        "answer": ""
+        "question": "How many suns does Kepler-16b orbits?",
+        "answer": 2
         },
         {
         "id": 7,
@@ -249,53 +249,53 @@
         },
         {
         "id": 9,
-        "question": "",
-        "answer": ""
+        "question": "What is the minimum legal age to buy alcohol in the UK?",
+        "answer": 18
         },
         {
         "id": 10,
-        "question": "",
-        "answer": ""
+        "question": "What is the minimum age for jury service in the UK?",
+        "answer": 18
         },
         {
         "id": 11,
-        "question": "",
-        "answer": ""
+        "question": "What is the highest-value note issued as British currency?",
+        "answer": 50
         },
         {
         "id": 12,
-        "question": "",
-        "answer": ""
+        "question": "How many people serve on a jury in Scotland?",
+        "answer": 15
         },
         {
         "id": 13,
-        "question": "",
-        "answer": ""
+        "question": "97-72+1?",
+        "answer": 26
         },
         {
         "id": 14,
-        "question": "",
-        "answer": ""
+        "question": "How many people have walked on the moon?",
+        "answer": 12
         },
         {
         "id": 15,
-        "question": "",
-        "answer": ""
+        "question": "What year did Yuri Gagarin go to space?",
+        "answer": 1961
         },
         {
         "id": 16,
-        "question": "",
-        "answer": ""
+        "question": "How many hours in a day?",
+        "answer": 24
         },
         {
         "id": 17,
-        "question": "",
-        "answer": ""
+        "question": "How many minutes in an hour?",
+        "answer": 60
         },
         {
         "id": 18,
-        "question": "",
-        "answer": ""
+        "question": "How many time zones does Russia have?",
+        "answer": 11
         },
         {
         "id": 19,
@@ -426,18 +426,18 @@
         },
         {
         "id": 4,
-        "question": "",
-        "answer": ""
+        "question": "How many bones in the Human body?",
+        "answer": 206
         },
         {
         "id": 5,
-        "question": "",
-        "answer": ""
+        "question": "How long was the 100 year war",
+        "answer": 116
         },
         {
         "id": 6,
-        "question": "",
-        "answer": ""
+        "question": "How many Earth days is a day in Venus?",
+        "answer": 243
         },
         {
         "id": 7,
@@ -623,33 +623,33 @@
         },
         {
         "id": 3,
-        "question": "",
-        "answer": ""
+        "question": "What year did Yuri Gagarin go to space?",
+        "answer": 1961
         },
         {
         "id": 4,
-        "question": "",
-        "answer": ""
+        "question": "When was Lady Ada Lovelace, The first programmer born?",
+        "answer": 1815
         },
         {
         "id": 5,
-        "question": "",
-        "answer": ""
+        "question": "When was the first national flag flown in Denmark?",
+        "answer": 1478
         },
         {
         "id": 6,
-        "question": "",
-        "answer": ""
+        "question": "When was King Louis XVI killed?",
+        "answer": 1793
         },
         {
         "id": 7,
-        "question": "",
-        "answer": ""
+        "question": "What year was the first electric guitar sold?",
+        "answer": 1932
         },
         {
         "id": 8,
-        "question": "",
-        "answer": ""
+        "question": "When was the first computer game created?",
+        "answer": 1947
         },
         {
         "id": 9,
