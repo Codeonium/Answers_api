@@ -1,11 +1,6 @@
 {
     "onedigit": [
         {
-        "id": 0,
-        "question": "How many holes are there in a bowling ball?",
-        "answer": 3
-        },
-        {
         "id": 1,
         "question": "How many hulls are there on a catamaran?",
         "answer": 2
@@ -37,8 +32,8 @@
         },
         {
         "id": 7,
-        "question": "",
-        "answer": ""
+        "question": "How many holes are there in a bowling ball?",
+        "answer": 3
         },
         {
         "id": 8,
@@ -203,11 +198,6 @@
     ],
     "twodigit": [
         {
-        "id": 0,
-        "question": "How many legs are there on a shrimp?",
-        "answer": 10
-        },
-        {
         "id": 1,
         "question": "How many keys are on a piano?",
         "answer": 88
@@ -299,8 +289,8 @@
         },
         {
         "id": 19,
-        "question": "",
-        "answer": ""
+        "question": "How many legs are there on a shrimp?",
+        "answer": 10
         },
         {
         "id": 20,
@@ -405,11 +395,6 @@
     ],
     "threedigit": [
         {
-        "id": 0,
-        "question": "How many pennies in a pre-decimal pound?",
-        "answer": 240
-        },
-        {
         "id": 1,
         "question": "How many acres to the square mile?",
         "answer": 640
@@ -441,8 +426,8 @@
         },
         {
         "id": 7,
-        "question": "",
-        "answer": ""
+        "question": "How many pennies in a pre-decimal pound?",
+        "answer": 240
         },
         {
         "id": 8,
@@ -607,11 +592,6 @@
     ],    
     "fourdigit": [
         {
-        "id": 0,
-        "question": "When were the first Winter Olympics held?",
-        "answer": 1924
-        },
-        {
         "id": 1,
         "question": "When was the battle of Stamford Bridge fought?",
         "answer": 1066
@@ -653,8 +633,8 @@
         },
         {
         "id": 9,
-        "question": "",
-        "answer": ""
+        "question": "When were the first Winter Olympics held?",
+        "answer": 1924
         },
         {
         "id": 10,
