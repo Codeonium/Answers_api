@@ -1,5 +1,5 @@
 {
-    "onedigit": [
+    "1": [
         {
         "id": 1,
         "question": "How many hulls are there on a catamaran?",
@@ -196,7 +196,7 @@
         "answer": ""
         }
     ],
-    "twodigit": [
+    "2": [
         {
         "id": 1,
         "question": "How many keys are on a piano?",
@@ -393,7 +393,7 @@
         "answer": ""
         }
     ],
-    "threedigit": [
+    "3": [
         {
         "id": 1,
         "question": "How many acres to the square mile?",
@@ -590,7 +590,7 @@
         "answer": ""
         }
     ],    
-    "fourdigit": [
+    "4": [
         {
         "id": 1,
         "question": "When was the battle of Stamford Bridge fought?",
