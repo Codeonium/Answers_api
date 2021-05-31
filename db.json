@@ -107,94 +107,100 @@
         },
         {
         "id": 22,
-        "question": "",
-        "answer": ""
+        "question": "What is the PH of pure water?",
+        "answer": 7
         },
         {
         "id": 23,
-        "question": "",
-        "answer": ""
+        "question": "4444 : 4444?",
+        "answer": 1
         },
         {
         "id": 24,
-        "question": "",
-        "answer": ""
+        "question": "How many colours does the rainbow consist of?",
+        "answer": 7
         },
         {
         "id": 25,
-        "question": "",
-        "answer": ""
+        "question": "How many countries does UK share land border with?",
+        "answer": 1
         },
         {
         "id": 26,
-        "question": "",
-        "answer": ""
+        "question": "How many angles does triangle have?",
+        "answer": 3
         },
         {
         "id": 27,
-        "question": "",
-        "answer": ""
+        "question": "How many angles does pentagon have?",
+        "answer": 5
         },
         {
         "id": 28,
-        "question": "",
-        "answer": ""
+        "question": "How many people can engage in a duel?",
+        "answer": 2
         },
         {
         "id": 29,
-        "question": "",
-        "answer": ""
+        "question": "How many zeros does million have?",
+        "answer": 6
         },
         {
         "id": 30,
-        "question": "",
-        "answer": ""
+        "question": "What’s a third prime number?",
+        "answer": 5
         },
         {
         "id": 31,
-        "question": "",
-        "answer": ""
+        "question": "Mourinho a Special...?",
+        "answer": 1
         },
         {
         "id": 32,
-        "question": "",
-        "answer": ""
+        "question": "The ... little piggies",
+        "answer": 3
         },
         {
         "id": 33,
-        "question": "",
-        "answer": ""
+        "question": "What’s a fourth even number?",
+        "answer": 8
         },
         {
         "id": 34,
-        "question": "",
-        "answer": ""
+        "question": "What number does infinity symbol resembles the most?",
+        "answer": 8
         },
         {
         "id": 35,
-        "question": "",
-        "answer": ""
+        "question": "How many languages do bilinguals speak?",
+        "answer": 2
         },
         {
         "id": 36,
-        "question": "",
-        "answer": ""
+        "question": "How many brain hemispheres does human brain have?",
+        "answer": 2
         },
         {
         "id": 37,
-        "question": "",
-        "answer": ""
+        "question": "How many siblings a does a twin have?",
+        "answer": 1
         },
         {
         "id": 38,
-        "question": "",
-        "answer": ""
+        "question": "In the Hobbit, what ring does Bilbo find?",
+        "answer": 1
         },
         {
         "id": 39,
-        "question": "",
-        "answer": ""
+        "question": "how many does it take to dance the tango?",
+        "answer": 2
+        },
+        {
+        "id": 40,
+        "question": "Theres a band called U...?",
+        "answer": 2
         }
+    
     ],
     "2": [
         {
@@ -354,43 +360,48 @@
         },
         {
         "id": 32,
-        "question": "",
-        "answer": ""
+        "question": "How many bones in the skull?",
+        "answer": 22
         },
         {
         "id": 33,
-        "question": "",
-        "answer": ""
+        "question": "How many hours a day do elephants spend feeding?",
+        "answer": 18
         },
         {
         "id": 34,
-        "question": "",
-        "answer": ""
+        "question": "What’s the highest number of pH scale?",
+        "answer": 14
         },
         {
         "id": 35,
-        "question": "",
-        "answer": ""
+        "question": "What’s 0 Celsius degrees in Farenheit?",
+        "answer": 32
         },
         {
         "id": 36,
-        "question": "",
-        "answer": ""
+        "question": "How many letters are there in English alphabet?",
+        "answer": 26
         },
         {
         "id": 37,
-        "question": "",
-        "answer": ""
+        "question": "What’s 50% of 100?",
+        "answer": 50
         },
         {
         "id": 38,
-        "question": "",
-        "answer": ""
+        "question": "How many stars are there in flag of EU?",
+        "answer": 12
         },
         {
         "id": 39,
-        "question": "",
-        "answer": ""
+        "question": "How many Boroughs does London consist of?",
+        "answer": 32
+        },
+        {
+            "id": 40,
+            "question": "Add all the numbers on the keypad, what do you have?",
+            "answer": 45
         }
     ],
     "3": [
@@ -496,98 +507,103 @@
         },
         {
         "id": 21,
-        "question": "",
-        "answer": ""
+        "question": "At what negative temperature does oxygen becomes liquid?",
+        "answer": 183
         },
         {
         "id": 22,
-        "question": "",
-        "answer": ""
+        "question": "How many years does it take Pluto to orbit the sun?",
+        "answer": 248
         },
         {
         "id": 23,
-        "question": "",
-        "answer": ""
+        "question": "How many years does it take Neptune to orbit the sun?",
+        "answer": 165
         },
         {
         "id": 24,
-        "question": "",
-        "answer": ""
+        "question": "What’s the number of the beast divided by 6?",
+        "answer": "111"
         },
         {
         "id": 25,
-        "question": "",
-        "answer": ""
+        "question": "What’s UK’s Emergency phone number?",
+        "answer": "999"
         },
         {
         "id": 26,
-        "question": "",
-        "answer": ""
+        "question": "What’s the sum of hexagon’s interior angles?",
+        "answer": 720
         },
         {
         "id": 27,
-        "question": "",
-        "answer": ""
+        "question": "110 x 3 + 33 - 3",
+        "answer": 330
         },
         {
         "id": 28,
-        "question": "",
-        "answer": ""
+        "question": "In the LOTR how old is Bilbo in his party?",
+        "answer": 111
         },
         {
         "id": 29,
-        "question": "",
-        "answer": ""
+        "question": "What's the highest number before 651 and then divided by 2",
+        "answer": 325
         },
         {
         "id": 30,
-        "question": "",
-        "answer": ""
+        "question": "What numbers lucky number indicates jackpot?",
+        "answer": 777
         },
         {
         "id": 31,
-        "question": "",
-        "answer": ""
+        "question": "What's the quarter of a thousand?",
+        "answer": 250
         },
         {
         "id": 32,
-        "question": "",
-        "answer": ""
+        "question": "What’s the highest single Euro note?",
+        "answer": 500
         },
         {
         "id": 33,
-        "question": "",
-        "answer": ""
+        "question": "What number am i thinking?",
+        "answer": 650
         },
         {
         "id": 34,
-        "question": "",
-        "answer": ""
+        "question": "What’s first three digit prime number?",
+        "answer": 101
         },
         {
         "id": 35,
-        "question": "",
-        "answer": ""
+        "question": "Four times(seven times ten)?",
+        "answer": 280
         },
         {
         "id": 36,
-        "question": "",
-        "answer": ""
+        "question": "How old was the oldest animal ever found?",
+        "answer": 405
         },
         {
         "id": 37,
-        "question": "",
-        "answer": ""
+        "question": "What is the Statue of Liberty shoe size?",
+        "answer": 879
         },
         {
         "id": 38,
-        "question": "",
-        "answer": ""
+        "question": "How many beers did André the Giant drank in 6 hours?",
+        "answer": 119
         },
         {
         "id": 39,
-        "question": "",
-        "answer": ""
+        "question": "How many Whiskies did James Bond drank in the original Fleming’s books?",
+        "answer": 101
+        },
+        {
+            "id":40,
+            "question": "How many countries have been invaded by the British?",
+            "answer": 171
         }
     ],    
     "4": [
@@ -678,113 +694,118 @@
         },
         {
         "id": 18,
-        "question": "",
-        "answer": ""
+        "question": "When was Faraday born?",
+        "answer": 1791
         },
         {
         "id": 19,
-        "question": "",
-        "answer": ""
+        "question": "What temperature does Tungsten melts?",
+        "answer": 3410
         },
         {
         "id": 20,
-        "question": "",
-        "answer": ""
+        "question": "What is the melting point of diamond?",
+        "answer": 3550
         },
         {
         "id": 21,
-        "question": "",
-        "answer": ""
+        "question": "What’s Roman MMXXI in numbers ?",
+        "answer": 2021
         },
         {
         "id": 22,
-        "question": "",
-        "answer": ""
+        "question": "How many 1000 are in 1 million?",
+        "answer": 1000
         },
         {
         "id": 23,
-        "question": "",
-        "answer": ""
+        "question": "How many millions are there in 1 billion?",
+        "answer": 1000
         },
         {
         "id": 24,
-        "question": "",
-        "answer": ""
+        "question": "How many minutes are there in a day?",
+        "answer": 1440
         },
         {
         "id": 25,
-        "question": "",
-        "answer": ""
+        "question": "What number comes before ten thousand?",
+        "answer": 9999
         },
         {
         "id": 26,
-        "question": "",
-        "answer": ""
+        "question": "When was Golf made illegal?",
+        "answer": 1457
         },
         {
         "id": 27,
-        "question": "",
-        "answer": ""
+        "question": "What year did London Olympics take place it?",
+        "answer": 2012
         },
         {
         "id": 28,
-        "question": "",
-        "answer": ""
+        "question": "What's the diameter of Mars?",
+        "answer": 6752
         },
         {
         "id": 29,
-        "question": "",
-        "answer": ""
+        "question": "In million km, what is the closest Pluto gets to the sun?",
+        "answer": 4437
         },
         {
         "id": 30,
-        "question": "",
-        "answer": ""
+        "question": "if 1 = dash and 0 = dot what's morse for letter Z?",
+        "answer": 1100
         },
         {
         "id": 31,
-        "question": "",
-        "answer": ""
+        "question": "What’s 55 hectolitres in litres?",
+        "answer": 5500
         },
         {
         "id": 32,
-        "question": "",
-        "answer": ""
+        "question": "Highest 4 digit number - lowest 4 digit number =?",
+        "answer": 8999
         },
         {
         "id": 33,
-        "question": "",
-        "answer": ""
+        "question": "What’s the highest four digit number?",
+        "answer": 9999
         },
         {
         "id": 34,
-        "question": "",
-        "answer": ""
+        "question": "What number 9999 turned upside down end up being?",
+        "answer": 6666
         },
         {
         "id": 35,
-        "question": "",
-        "answer": ""
+        "question": "How far from the surface is the deepest cave found?",
+        "answer": 2200
         },
         {
         "id": 36,
-        "question": "",
-        "answer": ""
+        "question": "How high is the highest point in Europe?",
+        "answer": 5642
         },
         {
         "id": 37,
-        "question": "",
-        "answer": ""
+        "question": "How deep is the Indian Ocean in the deepest point?",
+        "answer": 7450
         },
         {
         "id": 38,
-        "question": "",
-        "answer": ""
+        "question": "On average, how deep is the Pacific Ocean?",
+        "answer": 4280
         },
         {
         "id": 39,
-        "question": "",
-        "answer": ""
+        "question": "How long is the longest river in North America?",
+        "answer": 5970
+        },
+        {
+        "id": 40,
+        "question":"How tall is Mount McKinley in Alaska?",
+        "answer": 6194
         }
     ]
 }
