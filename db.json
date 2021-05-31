@@ -87,23 +87,23 @@
         },
         {
         "id": 18,
-        "question": "",
-        "answer": ""
+        "question": "How many vowels are in word 'vowel'?",
+        "answer": 2
         },
         {
         "id": 19,
-        "question": "",
-        "answer": ""
+        "question": "How many consonants are in a word 'consonant'?",
+        "answer": 6
         },
         {
         "id": 20,
-        "question": "",
-        "answer": ""
+        "question": "Binary code consists of 0s and _s ?",
+        "answer": 1
         },
         {
         "id": 21,
-        "question": "",
-        "answer": ""
+        "question": "How many stars are there in flag of Australia ?",
+        "answer": 6
         },
         {
         "id": 22,
@@ -334,23 +334,23 @@
         },
         {
         "id": 28,
-        "question": "",
-        "answer": ""
+        "question": "How many countries does EU consist of ?",
+        "answer": 27
         },
         {
         "id": 29,
-        "question": "",
-        "answer": ""
+        "question": "How many countries does Commonwealth consist of ?",
+        "answer": 54
         },
         {
         "id": 30,
-        "question": "",
-        "answer": ""
+        "question": "4 x 4 x 4 = ?",
+        "answer": 64
         },
         {
         "id": 31,
-        "question": "",
-        "answer": ""
+        "question": "How many zodiac signs are there ?",
+        "answer": 12
         },
         {
         "id": 32,
@@ -481,18 +481,18 @@
         },
         {
         "id": 18,
-        "question": "",
-        "answer": ""
+        "question": "How many countries does United Nations consist of ?",
+        "answer": 193
         },
         {
         "id": 19,
-        "question": "",
-        "answer": ""
+        "question": "How many Spartan solders fought in Battle of Thermopylae ?",
+        "answer": 300
         },
         {
         "id": 20,
-        "question": "",
-        "answer": ""
+        "question": "How many years has Poland lost is independence for ?",
+        "answer": 123
         },
         {
         "id": 21,
@@ -663,18 +663,18 @@
         },
         {
         "id": 15,
-        "question": "",
-        "answer": ""
+        "question": "How many seats does does parliament of UK consist of?",
+        "answer": 1440
         },
         {
         "id": 16,
-        "question": "",
-        "answer": ""
+        "question": "5555 - 1111 = ?",
+        "answer": 4444
         },
         {
         "id": 17,
-        "question": "",
-        "answer": ""
+        "question": "_ _ _ _: A Space Odyssey (movie)?",
+        "answer": 2001
         },
         {
         "id": 18,
