@@ -22,12 +22,12 @@
         },
         {
         "id": 5,
-        "question": "How many moons has Mars?",
+        "question": "How many moons does Mars have?",
         "answer": 2
         },
         {
         "id": 6,
-        "question": "How many suns does Kepler-16b orbits?",
+        "question": "How many suns does Kepler-16b have?",
         "answer": 2
         },
         {
@@ -52,7 +52,7 @@
         },
         {
         "id": 11,
-        "question": "How many studio albums were released by the Stoner Roses?",
+        "question": "How many studio albums did Stoner Roses release?",
         "answer": 2
         },
         {
@@ -77,12 +77,12 @@
         },
         {
         "id": 16,
-        "question": "How many were the Brothers Karamazov?",
+        "question": "How many Karamazov brothers are there?",
         "answer": 4
         },
         {
         "id": 17,
-        "question": "How many chambers in a human heart?",
+        "question": "How many chambers in a human heart are there?",
         "answer": 4
         },
         {
@@ -102,7 +102,7 @@
         },
         {
         "id": 21,
-        "question": "How many stars are there in flag of Australia ?",
+        "question": "How many stars in flag of Australia are there?",
         "answer": 6
         },
         {
@@ -112,7 +112,7 @@
         },
         {
         "id": 23,
-        "question": "4444 : 4444?",
+        "question": "4444 divided by 4444?",
         "answer": 1
         },
         {
@@ -177,12 +177,12 @@
         },
         {
         "id": 36,
-        "question": "How many brain hemispheres does human brain have?",
+        "question": "How many hemispheres does human brain have?",
         "answer": 2
         },
         {
         "id": 37,
-        "question": "How many siblings a does a twin have?",
+        "question": "At least how many siblings does a single a twin have?",
         "answer": 1
         },
         {
@@ -197,7 +197,7 @@
         },
         {
         "id": 40,
-        "question": "Theres a band called U...?",
+        "question": "There is a rock band called U_?",
         "answer": 2
         }
     
@@ -205,12 +205,12 @@
     "2": [
         {
         "id": 1,
-        "question": "How many keys are on a piano?",
+        "question": "How many keys does a full-sized piano have?",
         "answer": 88
         },
         {
         "id": 2,
-        "question": "How many labours performed by Hercules?",
+        "question": "How many labours did Hercules perform?",
         "answer": 12
         },
         {
@@ -260,12 +260,12 @@
         },
         {
         "id": 12,
-        "question": "How many people serve on a jury in Scotland?",
+        "question": "How many jurors are Scottish trials populated by?",
         "answer": 15
         },
         {
         "id": 13,
-        "question": "97-72+1?",
+        "question": "97 - 72 + 1 =?",
         "answer": 26
         },
         {
@@ -275,7 +275,7 @@
         },
         {
         "id": 15,
-        "question": "How many legs are there on a shrimp?",
+        "question": "How many legs does a shrimp have?",
         "answer": 10
         },
         {
@@ -290,7 +290,7 @@
         },
         {
         "id": 18,
-        "question": "How many time zones does Russia have?",
+        "question": "How many times zones does Russia stretch over?",
         "answer": 11
         },
         {
@@ -320,7 +320,7 @@
         },
         {
         "id": 24,
-        "question": "How many letters are there in ‘presbyterianism’?",
+        "question": "How many letters in the word ‘presbyterianism’?",
         "answer": 15
         },
         {
@@ -360,7 +360,7 @@
         },
         {
         "id": 32,
-        "question": "How many bones in the skull?",
+        "question": "How many bones does human skull consist of?",
         "answer": 22
         },
         {
@@ -399,40 +399,40 @@
         "answer": 32
         },
         {
-            "id": 40,
-            "question": "Add all the numbers on the keypad, what do you have?",
-            "answer": 45
+        "id": 40,
+        "question":  "What do all the keypad numbers add up to ?",
+        "answer": 45
         }
     ],
     "3": [
         {
         "id": 1,
-        "question": "How many acres to the square mile?",
+        "question": "How many acres fit in the square mile?",
         "answer": 640
         },
         {
         "id": 2,
-        "question": "At what number did Sherlock Holmes live?",
+        "question": "What number did Sherlock Holmes live at?",
         "answer": 221
         },
         {
         "id": 3,
-        "question": "How many dots are there on a standard set of dominoes?",
+        "question": "In total, how many dots in a standard domino set are there",
         "answer": 168
         },
         {
         "id": 4,
-        "question": "How many bones in the Human body?",
+        "question": "How many bones in adult Human body are there",
         "answer": 206
         },
         {
         "id": 5,
-        "question": "How long was the 100 year war",
+        "question": "How long did 100 year war last for?",
         "answer": 116
         },
         {
         "id": 6,
-        "question": "How many Earth days is a day in Venus?",
+        "question": "How many Earth days does one day on Venus last for?",
         "answer": 243
         },
         {
@@ -442,7 +442,7 @@
         },
         {
         "id": 8,
-        "question": "What’s the minimum height of a munro in m?",
+        "question": "In meters, What’s the minimum height of a munro?",
         "answer": 914
         },
         {
@@ -457,7 +457,7 @@
         },
         {
         "id": 11,
-        "question": "How many MP’s sit in the House of Commons?",
+        "question": "How many MPs sit in the House of Commons?",
         "answer": 650
         },
         {
@@ -467,22 +467,22 @@
         },
         {
         "id": 13,
-        "question": "How long is the River Thames in km?",
+        "question": "in kilometers, how long is the River Thames?",
         "answer": 346
         },
         {
         "id": 14,
-        "question": "How old was the oldest person ever?",
+        "question": "How old was the oldest person ever recorded?",
         "answer": 122
         },
         {
         "id": 15,
-        "question": "How tall was Andre the Giant in cm?",
+        "question": "In centimeters, how tall was Andre the Giant?",
         "answer": 224
         },
         {
         "id": 16,
-        "question": "How long did the shortest serving British PM serve for in days?",
+        "question": "How many days did the shortest serving British PM serve for?",
         "answer": 119
         },
         {
@@ -502,12 +502,12 @@
         },
         {
         "id": 20,
-        "question": "How many years has Poland lost is independence for ?",
+        "question": "How many years has Poland lost its independence for ?",
         "answer": 123
         },
         {
         "id": 21,
-        "question": "At what negative temperature does oxygen becomes liquid?",
+        "question": "At what negative temperature does oxygen become liquid?",
         "answer": 183
         },
         {
@@ -537,12 +537,12 @@
         },
         {
         "id": 27,
-        "question": "110 x 3 + 33 - 3",
+        "question": "110 x 3 + 33 - 3 = ?",
         "answer": 330
         },
         {
         "id": 28,
-        "question": "In the LOTR how old is Bilbo in his party?",
+        "question": "In the LOTR how old is Bilbo at his party?",
         "answer": 111
         },
         {
@@ -562,42 +562,42 @@
         },
         {
         "id": 32,
-        "question": "What’s the highest single Euro note?",
+        "question": "What’s the highest-value single Euro note?",
         "answer": 500
         },
         {
         "id": 33,
-        "question": "What number am i thinking?",
+        "question": "What number am I thinking of?",
         "answer": 650
         },
         {
         "id": 34,
-        "question": "What’s first three digit prime number?",
+        "question": "What’s first three-digit-long prime number?",
         "answer": 101
         },
         {
         "id": 35,
-        "question": "Four times(seven times ten)?",
+        "question": "Four times(seven times ten) = ?",
         "answer": 280
         },
         {
         "id": 36,
-        "question": "How old was the oldest animal ever found?",
+        "question": "How old was the oldest animal ever recorded?",
         "answer": 405
         },
         {
         "id": 37,
-        "question": "What is the Statue of Liberty shoe size?",
+        "question": "What is the Statue's of Liberty shoe size?",
         "answer": 879
         },
         {
         "id": 38,
-        "question": "How many beers did André the Giant drank in 6 hours?",
+        "question": "How many beers did André the Giant drink in 6 hours?",
         "answer": 119
         },
         {
         "id": 39,
-        "question": "How many Whiskies did James Bond drank in the original Fleming’s books?",
+        "question": "How many Whiskies did James Bond drink in the original Fleming’s books?",
         "answer": 101
         },
         {
@@ -614,7 +614,7 @@
         },
         {
         "id": 2,
-        "question": "In which year was the Great Fire of London?",
+        "question": "What year did the Great fire of London happen?",
         "answer": 1666
         },
         {
@@ -624,7 +624,7 @@
         },
         {
         "id": 4,
-        "question": "When was Lady Ada Lovelace, The first programmer born?",
+        "question": "What year was Lady Ada Lovelace, The first programmer born",
         "answer": 1815
         },
         {
@@ -654,17 +654,17 @@
         },
         {
         "id": 10,
-        "question": "What is the diameter of the moon to the nearest km?",
+        "question": "In kilometers, what’s diameter of the moon?",
         "answer": 3474
         },
         {
         "id": 11,
-        "question": "What is the max depth of the Atlantic ocean in m?",
+        "question": "In meters, what’s max. depth of the Atlantic Ocean?",
         "answer": 8486
         },
         {
         "id": 12,
-        "question": "How tall is Everest in m?",
+        "question": "In meters, how tall is Mount Everest ?",
         "answer": 8849
         },
         {
@@ -674,12 +674,12 @@
         },
         {
         "id": 14,
-        "question": "How many feet are there in a mile?",
+        "question": "How many feet in a mile?",
         "answer": 5280
         },
         {
         "id": 15,
-        "question": "How many seats does does parliament of UK consist of?",
+        "question": "How many seats does  UK parliament consist of",
         "answer": 1440
         },
         {
@@ -699,7 +699,7 @@
         },
         {
         "id": 19,
-        "question": "What temperature does Tungsten melts?",
+        "question": "What temperature does Tungsten melt at?",
         "answer": 3410
         },
         {
@@ -714,12 +714,12 @@
         },
         {
         "id": 22,
-        "question": "How many 1000 are in 1 million?",
+        "question": "How many 1000s are there in 1 million?",
         "answer": 1000
         },
         {
         "id": 23,
-        "question": "How many millions are there in 1 billion?",
+        "question": "How many millions in 1 billion?",
         "answer": 1000
         },
         {
@@ -729,7 +729,7 @@
         },
         {
         "id": 25,
-        "question": "What number comes before ten thousand?",
+        "question": "What number comes right before ten thousand?",
         "answer": 9999
         },
         {
@@ -739,12 +739,12 @@
         },
         {
         "id": 27,
-        "question": "What year did London Olympics take place it?",
+        "question": "What year did London Olympics take place in?",
         "answer": 2012
         },
         {
         "id": 28,
-        "question": "What's the diameter of Mars?",
+        "question": "In kilometers, what's the diameter of Mars",
         "answer": 6752
         },
         {
@@ -754,7 +754,7 @@
         },
         {
         "id": 30,
-        "question": "if 1 = dash and 0 = dot what's morse for letter Z?",
+        "question": "if 1 = dash and 0 = dot what's morse for letter 'Z'?",
         "answer": 1100
         },
         {
@@ -764,7 +764,7 @@
         },
         {
         "id": 32,
-        "question": "Highest 4 digit number - lowest 4 digit number =?",
+        "question": "Highest 4-digit number minus lowest 4-digit number = ?",
         "answer": 8999
         },
         {
@@ -774,37 +774,37 @@
         },
         {
         "id": 34,
-        "question": "What number 9999 turned upside down end up being?",
+        "question": "What would number 9999 turned upside down end up being?",
         "answer": 6666
         },
         {
         "id": 35,
-        "question": "How far from the surface is the deepest cave found?",
+        "question": "How far from the surface is the deepest cave found in metres?",
         "answer": 2200
         },
         {
         "id": 36,
-        "question": "How high is the highest point in Europe?",
+        "question": "How high is the highest point in Europe in metres?",
         "answer": 5642
         },
         {
         "id": 37,
-        "question": "How deep is the Indian Ocean in the deepest point?",
+        "question": "How deep is the Indian Ocean in the deepest point in metres?",
         "answer": 7450
         },
         {
         "id": 38,
-        "question": "On average, how deep is the Pacific Ocean?",
+        "question": "On average, how deep is the Pacific Ocean in metres?",
         "answer": 4280
         },
         {
         "id": 39,
-        "question": "How long is the longest river in North America?",
+        "question": "How long is the longest river in North America in Km?",
         "answer": 5970
         },
         {
         "id": 40,
-        "question":"How tall is Mount McKinley in Alaska?",
+        "question":"How tall is Mount McKinley in Alaska in meters?",
         "answer": 6194
         }
     ]
